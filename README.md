@@ -5,4 +5,4 @@ This contains the information of the alphanumerical system (0-9, A-Z, a-z)
 
 Even though it is heavily shrunken, it still managed to contain 31000 characters
 
-$$ (26 + 26 + 10) * 500 = 31000$$
+$$ (24 + 24 + 10) * 500 = 29000$$
